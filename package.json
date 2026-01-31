@@ -1,0 +1,20 @@
+{
+  "name": "auditlog",
+  "version": "1.0.0",
+  "description": "Discord bot for fetching and exporting audit logs",
+  "main": "audit-log.js",
+  "scripts": {
+    "start": "node audit-log.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "audit-log"
+  ],
+  "author": "",
+  "license": "ISC"
+}
